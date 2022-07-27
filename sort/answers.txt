@@ -1,0 +1,46 @@
+sort1 uses: Bubble Sort
+
+How do you know?: average complexity On2, best case 0n, worst On2
+random50000 - 7.889s
+random10000 - 0.315s
+random5000  - 0.093s
+
+reversed50000 - 5.917s
+reversed10000 - 0.273s
+reversed5000  - 0.101s
+
+sorted50000 - 1.001s
+sorted10000 - 0.077s
+sorted5000  - 0.039s
+
+sort2 uses: Merge sort
+
+How do you know?: average complexity Onlogn, best Onlogn, worst Onlogn
+
+random50000 - 0.726s
+random10000 - 0.084s
+random5000 -  0.049s
+
+reversed50000 - 0.872s
+reversed10000 - 0.087s
+reversed5000 -  0.025s
+
+sorted50000 - 1.102s
+sorted10000 - 0.082s
+sorted5000 -  0.044s
+
+sort3 uses: Selection Sort
+
+How do you know?: average On2, best On2, worst On2
+
+random50000 - 3.564s
+random10000 - 0.160s
+random5000 -  0.050s
+
+reversed50000 - 3.630s
+reversed10000 - 0.160s
+reversed5000 -  0.065s
+
+sorted50000 - 3.446s
+sorted10000 - 0.164s
+sorted5000 - 0.155s
